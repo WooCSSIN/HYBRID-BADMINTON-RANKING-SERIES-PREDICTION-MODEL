@@ -1,0 +1,19 @@
+{
+  "test_date": "2025-11-25T21:33:08.805186",
+  "draws_tested": [
+    "MS"
+  ],
+  "results": [
+    {
+      "draw": "MS",
+      "n_samples": 1100,
+      "n_features": 21,
+      "mae": 490.03588998646353,
+      "rmse": 780.9250363235882,
+      "mape": 1.278484496045295,
+      "spearman_correlation": 0.9988920091485856,
+      "ci_width": 1513.493586455539,
+      "ci_coverage_percent": 65.45454545454545
+    }
+  ]
+}
